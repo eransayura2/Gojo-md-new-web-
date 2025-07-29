@@ -5,7 +5,6 @@
     { "source": "/pair", "destination": "/pair.html" },
 
     
-    { "source": "/mega", "destination": "/api/mega" },
-    { "source": "/gen-id", "destination": "/api/gen-id" }
+  
   ]
 }
