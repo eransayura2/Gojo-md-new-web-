@@ -2,9 +2,6 @@
   "rewrites": [
     { "source": "/", "destination": "/main.html" },
     { "source": "/qr", "destination": "/qr.html" },
-    { "source": "/pair", "destination": "/pair.html" },
-
-    
-  
+    { "source": "/pair", "destination": "/pair.html" }
   ]
 }
